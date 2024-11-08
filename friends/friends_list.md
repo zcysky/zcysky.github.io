@@ -3,8 +3,6 @@ author_profile: true
 permalink: /friends/
 collection: friends
 ---
-This is a list of my friends:
-============
 
 Labmates
 -------------

@@ -1,6 +1,6 @@
 ---
 title: 'Blog for new website'
-date: 2012-08-14
+date: 2024-11-08
 permalink: /posts/init_post/
 tags:
   - init post

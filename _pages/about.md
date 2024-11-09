@@ -20,13 +20,13 @@ News
 
 Education
 ------
-- 2023.9 - now: CS PhD Student at University of Southern California(USC), Thomas Lord Department of Computer Science.
-- 2019.9 - 2023.6: Bachelor of Engineering at Huazhong University of Science and Technology(HUST), School of Computer Science and Technology.
+- 2023.9 - now: **CS PhD Student at University of Southern California(USC)**, Thomas Lord Department of Computer Science.
+- 2019.9 - 2023.6: **Bachelor of Engineering at Huazhong University of Science and Technology(HUST)**, School of Computer Science and Technology.
 
 Publications
 ------
-- An Incremental Algorithm for Algebraic Program Analysis. <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.
-- On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation. Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han, **ICML 2023**.
+- **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.
+- **On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.** Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han, **ICML 2023**.
 
 Academic Service
 ------
@@ -51,7 +51,7 @@ Scholorship & Awards
 
 MISC
 ------
-- We have a [USC-PLFM Reading Group](https://self.shiroha.info/pl_seminar.html), Feel free to join us if you are interested in!
+- We have a [USC-PLFM Reading Group]({{ '/pl_seminar/' | relative_url }}), Feel free to join us if you are interested in!
 - New homepage photo was taken in San Francisco, credit to my labmate Jacqueline Mitchell.
 - During my Undergrad, I played CTF with Team L3H_Sec.
 - I am a member of the doujin club [yukiha(雪羽)](https://yukiha.org) and the maintainer of the website.

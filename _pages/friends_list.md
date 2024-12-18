@@ -24,6 +24,8 @@ Friends
 
 [Xuanyu Peng(Dofy) @ UCSD](https://home.dofy.top/)
 
+[Jingtao Xia @ UCSB](https://jingtaox.github.io/)
+
 Blogs
 -----------
 [Centaurus99](https://centaurus99.top/)

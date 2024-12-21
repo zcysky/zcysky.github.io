@@ -19,9 +19,18 @@ Friends
 ------------
 [Nick(Yiqi) Zhao @ USC](https://zhaoy37.github.io/)
 
+[Taiwei Shi @ USC](https://maksimstw.github.io/)
+
+[Kai Chen @ USC](https://kaichen23.github.io/)
+
+[Yimin Tang @ USC](https://sites.google.com/view/yimintang)
+
 [Qinrun Dai @ CU Boulder](https://i.secondst.org/)
 
 [Xuanyu Peng(Dofy) @ UCSD](https://home.dofy.top/)
+
+[Jingtao Xia @ UCSB](https://jingtaox.github.io/)
+
 
 Blogs
 -----------

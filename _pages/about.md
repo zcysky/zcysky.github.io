@@ -14,14 +14,16 @@ I got my Bachelor degree from Huazhong University of Science and Technology in 2
 
 News
 ------
+- 2025.2: I will attend SoCal PLS 2025!
+- 2025.1: I will be in Denver for POPL 2025, looking forward to seeing you at my talk, and the KAT session I host!
 - 2024.11: One paper got accepted at POPL 2025.
 - 2024.11: I will be at OOPSLA 2024 at Pasadena!
 - 2023.9:  I started my Ph.D. at University of Southern California. Beautiful Los Angeles~
 
 Education
 ------
-- 2023.9 - now: **CS PhD Student at University of Southern California(USC)**, Thomas Lord Department of Computer Science.
-- 2019.9 - 2023.6: **Bachelor of Engineering at Huazhong University of Science and Technology(HUST)**, School of Computer Science and Technology.
+- 2023.9 - now: **PhD Student @ University of Southern California(USC)**, Thomas Lord Department of Computer Science.
+- 2019.9 - 2023.6: **Bachelor of Engineering @ Huazhong University of Science and Technology(HUST)**, School of Computer Science and Technology.
 
 Publications
 ------
@@ -31,8 +33,10 @@ Publications
 Academic Service
 ------
 - *Journal Reviewer* : TNNLS
-- *AEC* : USENIX Security'24, CAV'24, CCS'23
-- *Reviewer* : NeurIPS'24, ICLR'24
+- *AEC* : PLDI'25, USENIX Security'24, CAV'24, CCS'23
+- *Reviewer* : ICML'25, NeurIPS'24, ICLR'24
+- Session Chair for Kleene Algebra with Tests at POPL'25
+
 
 Other Experience
 ------

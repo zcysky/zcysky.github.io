@@ -53,6 +53,10 @@ Scholorship & Awards
 - 2022 ASC Asia Supercomputer Contest, Second Class Prize.
 - National Olympiad in Informatics in Province(NOIP 2018, Jiangsu),First Prize
 
+Inivited Talks
+-----
+- **An Incremental Algorithm for Algebraic Program Analysis**, SoCal PLS 2025
+
 MISC
 ------
 - We have a [USC-PLFM Reading Group]({{ '/pl_seminar/' | relative_url }}), Feel free to join us if you are interested in!

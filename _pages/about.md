@@ -55,7 +55,7 @@ Scholorship & Awards
 
 Inivited Talks
 -----
-- **An Incremental Algorithm for Algebraic Program Analysis**, SoCal PLS 2025
+- **An Incremental Algorithm for Algebraic Program Analysis**, SoCal PLS 2025, POPL 2025
 
 MISC
 ------

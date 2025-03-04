@@ -35,6 +35,8 @@ Friends(within and outside USC)
 
 [Mike He @ Princeton](https://www.cs.princeton.edu/~dh7120/) working on Formal Verification
 
+[Fangzheng Lin @ Science Tokyo(aka. Tokyo Tech, "東京工業大学")](https://lintoto.me/) working on Arch \& Security
+
 Friend Blogs
 -----------
 [Centaurus99](https://centaurus99.top/)

@@ -27,7 +27,7 @@ Education
 
 Publications
 ------
-- **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.
+- **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.  [*listen it from SunoAI!*](https://suno.com/song/ffa17b6e-0c60-4509-b683-7fd58df2ce3d?sh=WK7l7wmk0iB9SRVT)
 - **On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.** Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han, **ICML 2023**.
 
 Academic Service

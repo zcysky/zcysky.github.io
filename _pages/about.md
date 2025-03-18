@@ -14,7 +14,7 @@ I got my Bachelor degree from Huazhong University of Science and Technology in 2
 
 News
 ------
-- 2025.2: I will attend SoCal PLS 2025!
+- 2025.2: I will attend SoCalPLS 2025!
 - 2025.1: I will be in Denver for POPL 2025, looking forward to seeing you at my talk, and the KAT session I host!
 - 2024.11: One paper got accepted at POPL 2025.
 - 2024.11: I will be at OOPSLA 2024 at Pasadena!
@@ -28,6 +28,7 @@ Education
 Publications
 ------
 - **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.  [*listen it from SunoAI!*](https://suno.com/song/ffa17b6e-0c60-4509-b683-7fd58df2ce3d?sh=WK7l7wmk0iB9SRVT)
+- **Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?** Jacqueline L. Mitchell, Brian Hyeongseok Kim, <u>Chenyu Zhou</u>, Chao Wang, *Arxiv preprint*
 - **On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.** Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han, **ICML 2023**.
 
 Academic Service
@@ -55,7 +56,7 @@ Scholorship & Awards
 
 Inivited Talks
 -----
-- **An Incremental Algorithm for Algebraic Program Analysis**, SoCal PLS 2025, POPL 2025
+- **An Incremental Algorithm for Algebraic Program Analysis**, SoCalPLS 2025, POPL 2025
 
 MISC
 ------

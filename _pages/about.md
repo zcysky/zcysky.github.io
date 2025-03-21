@@ -29,6 +29,7 @@ Publications
 ------
 - **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.  [*listen it from SunoAI!*](https://suno.com/song/ffa17b6e-0c60-4509-b683-7fd58df2ce3d?sh=WK7l7wmk0iB9SRVT)
 - **Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?** Jacqueline L. Mitchell, Brian Hyeongseok Kim, <u>Chenyu Zhou</u>, Chao Wang, *Arxiv preprint*
+- **Efficient Symbolic Execution of Software under Fault Attacks.** Yuzhou Fang, <u>Chenyu Zhou</u>, Jingbo Wang, Chao Wang, *Arxiv preprint*
 - **On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.** Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han, **ICML 2023**.
 
 Academic Service

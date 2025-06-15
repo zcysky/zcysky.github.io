@@ -36,13 +36,14 @@ Publications
 Academic Service
 ------
 - *Journal Reviewer* : TNNLS
-- *AEC* : PLDI'25, USENIX Security'24, CAV'24, CCS'23
+- *AEC* : CAV'25, PLDI'25, USENIX Security'24, CAV'24, CCS'23
 - *Reviewer* : ICML'25, NeurIPS'24, ICLR'24
 - Session Chair for Kleene Algebra with Tests at POPL'25
 
 
-Other Experience
+ Experience
 ------
+- 2025: **Applied Scientist Intern** @ AWS Automated Reasoning Group(Portland, Oregon)
 - 2023, 2024: **Teaching Assistant** for CSCI 310: Software Engineering with Prof. Chao Wang at USC.
 - 2021: **Teaching Assistant** for CST 2261: Algorithm Design and Analysis with Prof. Teng Zhang at HUST.
 - 2024: Volunteer for OPLSS 2024.
@@ -59,6 +60,7 @@ Scholorship & Awards
 Inivited Talks
 -----
 - **An Incremental Algorithm for Algebraic Program Analysis**, SoCalPLS 2025, POPL 2025
+- **Kleene Algebra For Program Verification and Analysis**, Guest Talk @ CECS 329 - Concepts of Computer Science Theory(CSULB), 2025
 
 MISC
 ------

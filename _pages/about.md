@@ -14,7 +14,8 @@ I got my Bachelor degree from Huazhong University of Science and Technology in 2
 
 News
 ------
-- 2025.5: I will start an internship at AWS, working with [Dr. Joey Dodds](https://www.linkedin.com/in/joey-dodds-4b462a41/) this summer! Please contact me if you are also in Portland, OR!
+- 2025.8: One paper got accepted at LMPL workshop@OOPSLA 2025.
+- 2025.5: I will start an internship at AWS, working with [Dr. Joey Dodds](https://www.linkedin.com/in/joey-dodds-4b462a41/) and [Dr. Victor Nicolet](https://victornicolet.github.io/) this summer! Please contact me if you are also in Portland, OR!
 - 2025.2: I will attend SoCalPLS 2025!
 - 2025.1: I will be in Denver for POPL 2025, looking forward to seeing you at my talk, and the KAT session I host!
 - 2024.11: One paper got accepted at POPL 2025.

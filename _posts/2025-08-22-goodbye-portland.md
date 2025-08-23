@@ -1,12 +1,11 @@
 ---
-title: 'Goodbye Portland!'
+title: 'Summer in a Rose City: Goodbye Portland!'
 date: 2025-08-22
 permalink: /posts/bye_portland_2025/
 tags:
   - misc
   - internship
 ---
-# Summer in a Rose City: Goodbye Portland!
 
 **I may write more things here in future. So many things to say!**
 

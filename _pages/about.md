@@ -10,7 +10,9 @@ redirect_from:
 
 Currently I am a Ph.D. Student from University of Southern California, Department of Computer Science, advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
 
-I got my Bachelor degree from Huazhong University of Science and Technology in 2023. I am generally interested in **Program Analysis and Verification**, especially on algebraic tools and its theoretical aspect.
+I got my Bachelor degree from Huazhong University of Science and Technology in 2023. I am generally interested in **Program Analysis and Verification**, especially on algebraic tools and its theoretical aspect, for better scalability, compositionality, and efficiency. Most of my research is based on Abstract Interpretation and Kleene Algebra with Tests.
+
+> I work on formal methods (i.e. how to use mathematics to design programs) as opposed to software engineering (i.e. how to design programs avoiding any use of mathematics). ---- Patrick Cousot
 
 News
 ------
@@ -30,7 +32,7 @@ Education
 Publications
 ------
 - **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.  [*listen it from SunoAI!*](https://suno.com/song/ffa17b6e-0c60-4509-b683-7fd58df2ce3d?sh=WK7l7wmk0iB9SRVT)
-- **Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?** Jacqueline L. Mitchell, Brian Hyeongseok Kim, <u>Chenyu Zhou</u>, Chao Wang, *Arxiv preprint*
+- **Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters.** Jacqueline Mitchell, Brian Hyeongseok Kim, <u>Chenyu Zhou</u>, Chao Wang, *LMPL workshop @ OOPSLA 2025*
 - **Efficient Symbolic Execution of Software under Fault Attacks.** Yuzhou Fang, <u>Chenyu Zhou</u>, Jingbo Wang, Chao Wang, *Arxiv preprint*
 - **On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.** Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han, **ICML 2023**.
 

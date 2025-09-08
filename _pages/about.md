@@ -12,8 +12,6 @@ Currently I am a Ph.D. Student from University of Southern California, Departmen
 
 I got my Bachelor degree from Huazhong University of Science and Technology in 2023. I am generally interested in **Program Analysis and Verification**, especially on algebraic tools and its theoretical aspect, for better scalability, compositionality, and efficiency. Most of my research is based on Abstract Interpretation and Kleene Algebra with Tests.
 
-> I work on formal methods (i.e. how to use mathematics to design programs) as opposed to software engineering (i.e. how to design programs avoiding any use of mathematics). ---- Patrick Cousot
-
 News
 ------
 - 2025.8: One paper got accepted at LMPL workshop@OOPSLA 2025.
@@ -71,5 +69,5 @@ MISC
 - New homepage photo was taken in San Francisco, credit to my labmate Jacqueline Mitchell.
 - During my Undergrad, I played CTF with Team L3H_Sec.
 - I am a member of the doujin club [yukiha(雪羽)](https://yukiha.org) and the maintainer of the website.
-- I am a World of Warcraft Player, majoring in Marksmanship/Beast Mastery Hunter in BFA, ShadowLands, Dragon Flights and The War Within.
+- I am a World of Warcraft Player, majoring in Marksmanship/Beast Mastery Hunter in BFA, ShadowLands, Dragon Flights and The War Within. Here is my [character information from raider.io](https://raider.io/characters/cn/blanchard/%E7%A9%BA%E9%97%A8%E5%B0%8F%E8%8B%8D).
 

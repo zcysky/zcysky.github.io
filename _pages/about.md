@@ -46,12 +46,12 @@ Academic Service
  Experience
 ------
 ### Industural & Academia
-- 2025: **Applied Scientist Intern** @ AWS Automated Reasoning Group(Portland, Oregon)
-- 2024: Volunteer for OPLSS 2024.
+- 2025: **Applied Scientist Intern** @ AWS Automated Reasoning Group(Portland, Oregon).
+- 2024: **Volunteer** for OPLSS 2024.
 
 ### TA Experience
 - 2023fall, 2024fall, 2025fall: CSCI 310 (Software Engineering) with Prof. Chao Wang at USC.
-- 2025spring: CSCI 572 (Information Retrieval and Web Search Engines) with Prof. Sathyanaraya Raghavachary 
+- 2026spring: CSCI 572 (Information Retrieval and Web Search Engines) with Prof. Sathyanaraya Raghavachary at USC.
 - 2021fall: CST 2261 (Algorithm Design and Analysis) with Prof. Teng Zhang at HUST.
 
 
@@ -67,7 +67,7 @@ Scholorship & Awards
 Inivited Talks
 -----
 - **An Incremental Algorithm for Algebraic Program Analysis**, SoCalPLS 2025, POPL 2025
-- **Kleene Algebra For Program Verification and Analysis**, Guest Talk @ CECS 329 - Concepts of Computer Science Theory(CSULB), 2025
+- **Kleene Algebra For Program Verification and Analysis**, Guest Talk @ *CECS 329: Concepts of Computer Science Theory(CSULB) 2025* and *ECE 57300: Compilers And Translator Writing Systems (Purdue University) 2025*
 
 MISC
 ------

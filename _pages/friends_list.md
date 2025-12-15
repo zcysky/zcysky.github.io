@@ -18,24 +18,26 @@ Labmates
 
 Friends(within and outside USC)
 ------------
-[Nick(Yiqi) Zhao @ USC](https://zhaoy37.github.io/) working on Robotics and Formal Methods
+[Nick(Yiqi) Zhao @ USC](https://zhaoy37.github.io/) 
 
-[Taiwei Shi @ USC](https://maksimstw.github.io/) working on NLP
+[Taiwei Shi @ USC](https://maksimstw.github.io/) 
 
-[Kai Chen @ USC](https://kaichen23.github.io/) working on NLP
+[Kai Chen @ USC](https://kaichen23.github.io/) 
 
-[Yimin Tang @ USC](https://sites.google.com/view/yimintang) working on Robotics and Algorithm
+[Yimin Tang @ USC](https://sites.google.com/view/yimintang) 
 
 
-[Qinrun Dai @ CU Boulder](https://i.secondst.org/) working on System Security
+[Qinrun Dai @ CU Boulder](https://i.secondst.org/) 
 
-[Xuanyu Peng(Dofy) @ UCSD](https://home.dofy.top/) working on Program Synthesis
+[Xuanyu Peng(Dofy) @ UCSD](https://home.dofy.top/) 
 
-[Jingtao Xia @ UCSB](https://jingtaox.github.io/) working on PL x Arch
+[Jingtao Xia @ UCSB](https://jingtaox.github.io/) 
 
-[Mike He @ Princeton](https://www.cs.princeton.edu/~dh7120/) working on Formal Verification
+[Mike He @ Princeton](https://www.cs.princeton.edu/~dh7120/) 
 
-[Fangzheng Lin @ Science Tokyo](https://lintoto.me/) working on Arch & Security
+[Fangzheng Lin @ Science Tokyo](https://lintoto.me/) 
+
+[Ruotong Cheng @ University of Toronto](https://www.cs.toronto.edu/~chengrt/)
 
 Friend Blogs
 -----------

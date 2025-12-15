@@ -14,6 +14,7 @@ I got my Bachelor degree from Huazhong University of Science and Technology in 2
 
 News
 ------
+- 2025.10: I will be in Singapore for OOPSLA 2025!
 - 2025.8: One paper got accepted at LMPL workshop@OOPSLA 2025.
 - 2025.5: I will start an internship at AWS, working with [Dr. Joey Dodds](https://www.linkedin.com/in/joey-dodds-4b462a41/) and [Dr. Victor Nicolet](https://victornicolet.github.io/) this summer! Please contact me if you are also in Portland, OR!
 - 2025.2: I will attend SoCalPLS 2025!
@@ -44,10 +45,15 @@ Academic Service
 
  Experience
 ------
+### Industural & Academia
 - 2025: **Applied Scientist Intern** @ AWS Automated Reasoning Group(Portland, Oregon)
-- 2023, 2024: **Teaching Assistant** for CSCI 310: Software Engineering with Prof. Chao Wang at USC.
-- 2021: **Teaching Assistant** for CST 2261: Algorithm Design and Analysis with Prof. Teng Zhang at HUST.
 - 2024: Volunteer for OPLSS 2024.
+
+### TA Experience
+- 2023fall, 2024fall, 2025fall: CSCI 310 (Software Engineering) with Prof. Chao Wang at USC.
+- 2025spring: CSCI 572 (Information Retrieval and Web Search Engines) with Prof. Sathyanaraya Raghavachary 
+- 2021fall: CST 2261 (Algorithm Design and Analysis) with Prof. Teng Zhang at HUST.
+
 
 Scholorship & Awards
 ------

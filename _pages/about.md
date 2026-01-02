@@ -38,7 +38,7 @@ Publications
 Academic Service
 ------
 - *Journal Reviewer* : TNNLS
-- *AEC* : CAV'25, PLDI'25, USENIX Security'24, CAV'24, CCS'23
+- *AEC* : OOPSLA'26, CAV'25, PLDI'25, USENIX Security'24, CAV'24, CCS'23
 - *Reviewer* : ICML'25, NeurIPS'24, ICLR'24
 - Session Chair for Kleene Algebra with Tests at POPL'25
 

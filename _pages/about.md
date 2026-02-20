@@ -27,13 +27,13 @@ News
 
 Education
 ------
-- 2023.9 - now: **PhD Student @ University of Southern California(USC)**, Thomas Lord Department of Computer Science.
-- 2019.9 - 2023.6: **Bachelor of Engineering @ Huazhong University of Science and Technology(HUST)**, School of Computer Science and Technology.
+- 2023.9 - now: **PhD Student @ University of Southern California (USC)**, Thomas Lord Department of Computer Science.
+- 2019.9 - 2023.6: **Bachelor of Engineering @ Huazhong University of Science and Technology (HUST)**, School of Computer Science and Technology.
 
 Publications
 ------
-- **Mechanically Translating Iterative Dataflow Analysis to Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Jingbo Wang , Chao Wang. **OOPSLA 2026**
-- **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang, **POPL 2025**.  [*listen it from SunoAI!*](https://suno.com/song/ffa17b6e-0c60-4509-b683-7fd58df2ce3d?sh=WK7l7wmk0iB9SRVT)
+- **Mechanically Translating Iterative Dataflow Analysis to Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Jingbo Wang , Chao Wang. **OOPSLA 2026**.
+- **An Incremental Algorithm for Algebraic Program Analysis.** <u>Chenyu Zhou</u>, Yuzhou Fang, Jingbo Wang, Chao Wang. **POPL 2025**.  [*listen it from SunoAI!*](https://suno.com/song/ffa17b6e-0c60-4509-b683-7fd58df2ce3d?sh=WK7l7wmk0iB9SRVT)
 - **Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters.** Jacqueline Mitchell, Brian Hyeongseok Kim, <u>Chenyu Zhou</u>, Chao Wang. *LMPL workshop @ OOPSLA 2025*
 - **Efficient Symbolic Execution of Software under Fault Attacks.** Yuzhou Fang, <u>Chenyu Zhou</u>, Jingbo Wang, Chao Wang. *Arxiv preprint*
 - **On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.** Zhanke Zhou, <u>Chenyu Zhou</u>, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han. **ICML 2023**.
@@ -41,7 +41,7 @@ Publications
 Academic Service
 ------
 - *Journal Reviewer* : TNNLS
-- *AEC* : OOPSLA'26, CAV'25, PLDI'25, USENIX Security'24, CAV'24, CCS'23
+- *AEC* : PLDI'26, OOPSLA'26, CAV'25, PLDI'25, USENIX Security'24, CAV'24, CCS'23
 - *Reviewer* : ICML'25, NeurIPS'24, ICLR'24
 - Session Chair for Kleene Algebra with Tests at POPL'25
 
@@ -49,7 +49,7 @@ Academic Service
  Experience
 ------
 ### Industural & Academia
-- 2025: **Applied Scientist Intern** @ AWS Automated Reasoning Group(Portland, Oregon).
+- 2025: **Applied Scientist Intern** @ AWS Automated Reasoning Group (Portland, Oregon).
 - 2024: **Volunteer** for OPLSS 2024.
 
 ### TA Experience
@@ -57,6 +57,10 @@ Academic Service
 - 2026spring: CSCI 572 (Information Retrieval and Web Search Engines) with Prof. Sathyanaraya Raghavachary at USC.
 - 2021fall: CST 2261 (Algorithm Design and Analysis) with Prof. Teng Zhang at HUST.
 
+### Summer Schools and Gatherings
+
+- Oregon Programming Languages Summer School (OPLSS), Boston, MA, 2024 (the very special year not in Oregon but Boston).
+- Summer School of Formal Techniques (SSFT), Menlo Park, CA, 2024
 
 Scholorship & Awards
 ------
@@ -69,8 +73,8 @@ Scholorship & Awards
 
 Inivited Talks
 -----
-- **An Incremental Algorithm for Algebraic Program Analysis**, SoCalPLS 2025, POPL 2025
-- **Kleene Algebra For Program Verification and Analysis**, Guest Talk @ *CECS 329: Concepts of Computer Science Theory(CSULB) 2025* and *ECE 57300: Compilers And Translator Writing Systems (Purdue University) 2025*
+- **An Incremental Algorithm for Algebraic Program Analysis**, SoCalPLS 2025, POPL 2025, UW-Madison PL Seminar 2025
+- **Kleene Algebra For Program Verification and Analysis**, Guest Talk @ *CECS 329: Concepts of Computer Science Theory(CSULB) 2025* and *ECE 573: Compilers And Translator Writing Systems (Purdue University) 2025*
 
 MISC
 ------

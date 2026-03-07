@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 
-Currently I am a Ph.D. Student from University of Southern California, Thomas Lord Department of Computer Science, advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
+Currently I am a Ph.D.  Candidate from University of Southern California, Thomas Lord Department of Computer Science, advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
 
 I got my Bachelor degree from Huazhong University of Science and Technology in 2023. I am generally interested in **Program Analysis and Verification**, especially on algebraic tools and its theoretical aspect, for better scalability, compositionality, and efficiency. Most of my research is based on Abstract Interpretation and Kleene Algebra with Tests.
 
 News
 ------
+- 2026.2: I have passed my PhD Qualification Exam and became a PhD Candidate! 
 - 2026.2: One paper got accepted at OOPSLA 2026. 
 - 2026.1: I will attand SoCalPLS 2026. Welcome to USC this year!
 - 2025.10: I will be in Singapore for OOPSLA 2025!
@@ -27,7 +28,7 @@ News
 
 Education
 ------
-- 2023.9 - now: **PhD Student @ University of Southern California (USC)**, Thomas Lord Department of Computer Science.
+- 2023.9 - now: **PhD Candidate @ University of Southern California (USC)**, Thomas Lord Department of Computer Science.
 - 2019.9 - 2023.6: **Bachelor of Engineering @ Huazhong University of Science and Technology (HUST)**, School of Computer Science and Technology.
 
 Publications
